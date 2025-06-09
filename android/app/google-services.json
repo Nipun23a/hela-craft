@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220539978211",
+    "project_id": "smeapp-db795",
+    "storage_bucket": "smeapp-db795.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220539978211:android:80513c96f5889c6709a0d6",
+        "android_client_info": {
+          "package_name": "com.example.smeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7lxASRMRZ8WNhcw8WymF08DGJhevthR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
